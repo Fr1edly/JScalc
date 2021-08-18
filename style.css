@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background: radial-gradient(circle at 150%, Indigo, Plum 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calculator{
+    width: 260px;
+    height: 380px;
+    background: #555;
+    border-radius: 10px;
+    box-shadow:3px 3px 4px rgba(0,0,0,0.2), -3px -3px 4px rgba(0,0,0,0.2);
+}
