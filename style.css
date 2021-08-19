@@ -17,3 +17,26 @@ body{
     border-radius: 10px;
     box-shadow:3px 3px 4px rgba(0,0,0,0.2), -3px -3px 4px rgba(0,0,0,0.2);
 }
+output{
+    padding: 15px 5px 5px 5px;
+    color:#eee;
+    font-size:1.2em;
+    font-weight:bold;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    width: 260px;
+    height: 40px;
+    background: #111;
+    border-radius: 10px 10px 0px 0px;
+}
+output[name="equation"]{
+    padding: 5px;
+    border-radius: 0px;
+    height: 40px;
+    align-items: center;
+    color: #555;
+}
+button[value="="]{
+    background: orangered;
+}
