@@ -31,11 +31,8 @@ document.addEventListener('keydown', event =>{
 function calc(value){
     if(value.match(/=|Enter/)){
         try{
-            if(output.textContent != ''){
-                output.textContent = ''
-            }
             equat.item(1).textContent = output.textContent +'='
-            output.textContent = Math.trunc(Math.evaluate(output.textContent))
+            output.textContent = math.evaluate(output.textContent)
             
         }
         catch{
@@ -55,6 +52,8 @@ function calc(value){
         setTimeout(()=>{
             output.textContent =''
         }, 1500)
+    }else if(value.match(/F/)){
+    
     }else{
         output.textContent+=value
     }
