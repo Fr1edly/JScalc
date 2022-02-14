@@ -1,0 +1,73 @@
+[2022-01-22T01:25:21.371] [INFO] tofile.log - server started at 3000 socket
+[2022-01-22T12:01:10.062] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:01:13.864] [INFO] srt - requested: undefined 
+[2022-01-22T12:01:13.868] [INFO] srt - [object Object] connected
+[2022-01-22T12:01:13.901] [INFO] srt - requested: undefined 
+[2022-01-22T12:01:13.901] [INFO] srt - requested: undefined 
+[2022-01-22T12:01:13.902] [INFO] srt - [object Object] connected
+[2022-01-22T12:01:13.903] [INFO] srt - [object Object] connected
+[2022-01-22T12:02:10.228] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:02:13.258] [INFO] srt - requested: undefined 
+[2022-01-22T12:02:13.262] [INFO] srt - undefined connected
+[2022-01-22T12:02:13.311] [INFO] srt - requested: undefined 
+[2022-01-22T12:02:13.312] [INFO] srt - requested: undefined 
+[2022-01-22T12:02:13.312] [INFO] srt - undefined connected
+[2022-01-22T12:02:13.313] [INFO] srt - undefined connected
+[2022-01-22T12:02:34.587] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:02:37.280] [INFO] srt - requested: undefined 
+[2022-01-22T12:02:50.763] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:02:51.577] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:19.498] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:03:25.769] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:25.773] [INFO] srt - /index.html connected
+[2022-01-22T12:03:25.818] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:25.820] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:25.820] [INFO] srt - /style.css connected
+[2022-01-22T12:03:25.823] [INFO] srt - /script.js connected
+[2022-01-22T12:03:28.597] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:28.598] [INFO] srt - /index.html connected
+[2022-01-22T12:03:28.631] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:28.631] [INFO] srt - requested: undefined 
+[2022-01-22T12:03:28.632] [INFO] srt - /style.css connected
+[2022-01-22T12:03:28.632] [INFO] srt - /script.js connected
+[2022-01-22T12:03:44.974] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:03:48.635] [INFO] srt - requested: /index.html 
+[2022-01-22T12:03:48.639] [INFO] srt - /index.html connected
+[2022-01-22T12:03:48.673] [INFO] srt - requested: /style.css 
+[2022-01-22T12:03:48.674] [INFO] srt - requested: /script.js 
+[2022-01-22T12:03:48.674] [INFO] srt - /style.css connected
+[2022-01-22T12:03:48.675] [INFO] srt - /script.js connected
+[2022-01-22T12:04:06.635] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:04:11.241] [INFO] srt - requested: /index.html 
+[2022-01-22T12:04:11.245] [INFO] srt - connected to: /index.html
+[2022-01-22T12:04:11.278] [INFO] srt - requested: /style.css 
+[2022-01-22T12:04:11.279] [INFO] srt - requested: /script.js 
+[2022-01-22T12:04:11.280] [INFO] srt - connected to: /style.css
+[2022-01-22T12:04:11.280] [INFO] srt - connected to: /script.js
+[2022-01-22T12:07:47.678] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:07:49.817] [INFO] srt - requested: /index.html 
+[2022-01-22T12:07:49.821] [INFO] srt - connected to: /index.html
+[2022-01-22T12:07:49.858] [INFO] srt - requested: /style.css 
+[2022-01-22T12:07:49.859] [INFO] srt - requested: /script.js 
+[2022-01-22T12:07:49.860] [INFO] srt - connected to: /style.css
+[2022-01-22T12:07:49.861] [INFO] srt - connected to: /script.js
+[2022-01-22T12:08:04.931] [INFO] srt - requested: /style.css 
+[2022-01-22T12:08:04.932] [INFO] srt - connected to: /style.css
+[2022-01-22T12:08:47.915] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:08:54.799] [INFO] srt - requested: /index.html 
+[2022-01-22T12:08:54.804] [INFO] srt - connected to: /index.html
+[2022-01-22T12:08:54.849] [INFO] srt - requested: /style.css 
+[2022-01-22T12:08:54.850] [INFO] srt - requested: /script.js 
+[2022-01-22T12:08:54.851] [INFO] srt - connected to: /style.css
+[2022-01-22T12:08:54.852] [INFO] srt - connected to: /script.js
+[2022-01-22T12:09:00.175] [INFO] srt - requested: / 
+[2022-01-22T12:09:00.177] [ERROR] srt - null: Response not found
+[2022-01-22T12:09:15.760] [INFO] srt - server started at 3000 socket
+[2022-01-22T12:09:18.251] [INFO] srt - requested: / 
+[2022-01-22T12:09:18.258] [ERROR] srt - 404: Response not found
+[2022-01-22T12:09:27.796] [INFO] srt - requested: /index.html 
+[2022-01-22T12:09:27.797] [INFO] srt - connected to: /index.html
+[2022-01-22T12:09:27.834] [INFO] srt - requested: /style.css 
+[2022-01-22T12:09:27.836] [INFO] srt - requested: /script.js 
+[2022-01-22T12:09:27.837] [INFO] srt - connected to: /style.css
+[2022-01-22T12:09:27.840] [INFO] srt - connected to: /script.js
